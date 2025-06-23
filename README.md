@@ -12,3 +12,8 @@ CipherSweep is a Python-based GUI vulnerability scanner that enables users to id
     • XSS Testing: Injects XSS payloads to detect reflected vulnerabilities.
     • Export Feature: HTML-based scan report generation using datetime and filedialog
     • Save Mechanism: Uses filedialog.asksaveasfilename() to write styled reports.
+
+![screenshot](imageFolder/screenshot.png)
+![screenshot](imageFolder/screenshot.png)
+![screenshot](imageFolder/screenshot.png)
+    
