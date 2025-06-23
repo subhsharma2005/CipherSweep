@@ -13,7 +13,7 @@ CipherSweep is a Python-based GUI vulnerability scanner that enables users to id
     • Export Feature: HTML-based scan report generation using datetime and filedialog
     • Save Mechanism: Uses filedialog.asksaveasfilename() to write styled reports.
 
-![screenshot](imageFolder/screenshot.png)
-![screenshot](imageFolder/screenshot.png)
-![screenshot](imageFolder/screenshot.png)
+![screenshot](ss/s1.png)
+![screenshot](ss/s2.png)
+![screenshot](ss/s3.png)
     
